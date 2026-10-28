@@ -1,0 +1,6 @@
+{
+  "name": "피자 분수 셰프 - 4학년 분수 덧셈 게임 & AI 스튜디오 요청문",
+  "description": "초등학교 4학년 분수의 덧셈을 피자 조각으로 재미있게 학습하는 수업용 웹앱과 AI Studio Build 전용 요청문 프롬프트 생성기",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
